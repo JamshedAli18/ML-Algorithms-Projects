@@ -2,7 +2,7 @@
 
 This repository contains projects that demonstrate the use of various machine learning algorithms. Each project focuses on a specific algorithm and includes relevant datasets, code, and explanations.
 
-
+ 
 - Python, Jupyter Notebook, scikit-learn, pandas, matplotlib are the technologies that are used in this repository.
 - **Steps**:
 -  
