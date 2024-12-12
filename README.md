@@ -9,7 +9,7 @@ This repository contains projects that demonstrate the use of various machine le
   1. **Data Exploration**: Analyze and visualize the dataset.
   2. **Data Preprocessing**: Clean and prepare the data for modeling. 
   3. **Model Training**: Train machine learning models to make predictions. 
-  4. **Model Evaluation**: Assess model performance using various metrics.
+  4. **Model Evaluation**: Assess model performance using various metrics. 
 
 
 ## Project Structure
